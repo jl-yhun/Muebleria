@@ -900,13 +900,13 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li.label {
 @media (min-width: 992px) {
     nav .navigation-main .navbar-dropdown .navbar-box ul > li.label {
         font-size: 18px;
-        color: white;
+        color: black;
         margin-bottom: 12px;
     }
 }
 
 nav .navigation-main .navbar-dropdown .navbar-box ul > li > a {
-    color: white;
+    color: black;
     display: block;
     padding-bottom: 5px;
     border-bottom: 1px solid #ffc933;
@@ -949,7 +949,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
         border-bottom: 0px solid #CCC;
     }
     nav .navigation-main .floating-menu > ul > li > a {
-        color: white;
+        color: black;
         padding: 20px 10px;
     }
     nav .navigation-main .floating-menu > ul > li > a.current:after, nav .navigation-main .floating-menu > ul > li > a:after {
@@ -1006,7 +1006,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
         width: 50%;
     }
     nav .navigation-main .floating-menu > ul > li .navbar-dropdown .navbar-box .box-1 {
-        background-color: rgba(0, 0, 0, 0.9);
+        background-color: white;
         width: 40%;
     }
     nav .navigation-main .floating-menu > ul > li .navbar-dropdown .navbar-box .box-2 {
@@ -1074,7 +1074,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
 @media (max-width: 991px) {
     nav.navbar-fixed {
         position: absolute;
-        background-color: black;
+        background-color: white;
     }
     nav.navbar-single-page {
         position: fixed !important;
@@ -1085,7 +1085,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
         width: 100%;
     }
     nav .navigation.navigation-top {
-        background-color: black;
+        background-color: white;
     }
     nav .navigation .logo {
         width: 165px;
@@ -1102,7 +1102,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
         right: 0;
         width: 40px;
         height: 100%;
-        color: #fff;
+        color: #000000;
         text-align: center;
         border-left: 1px solid #333;
     }
@@ -1118,7 +1118,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
         top: 0;
         right: 0;
         left: auto;
-        background-color: #000000;
+        background-color: white;
         -moz-transform: translate3d(0, -100%, 0);
         -ms-transform: translate3d(0, -100%, 0);
         -o-transform: translate3d(0, -100%, 0);
@@ -1150,7 +1150,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
     }
     nav .navigation-main .floating-menu .navbar-dropdown {
         display: none;
-        background-color: #1a1a1a;
+        background-color: white;
         padding: 0 10px;
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;
@@ -1287,7 +1287,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
         transition-delay: 2s;
     }
     nav .navigation-main .floating-menu > ul > li > a {
-        color: white;
+        color: black;
         display: block;
         border-bottom: 1px solid #252525;
         padding: 15px 0;
@@ -1336,7 +1336,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
         background-size: auto 50px;
         background-position: 100% center;
         background-repeat: no-repeat;
-        color: white;
+        color: black;
         text-align: right;
         -moz-transform: translate3d(0, -100%, 0);
         -ms-transform: translate3d(0, -100%, 0);
@@ -3985,7 +3985,7 @@ nav .cart-wrapper.open {
 }
 
 .stretcher-wrapper .stretcher .stretcher-item.more {
-    background-color: #cc9600;
+    background-color: #c69898;
     position: relative;
     height: 100px;
 }
