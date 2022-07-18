@@ -5856,8 +5856,8 @@ footer {
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-    color: #666666;
-    background-color: black;
+    color: white;
+    background-color: #e9d7d7;
 }
 
 @media (max-width: 767px) {
