@@ -5871,6 +5871,25 @@ footer .h1, footer .h2, footer .h3, footer .h4, footer .h5, footer .h6 {
     color: #c69898;
 }
 
+.color1 {
+    color: #c69898;
+}
+.color2 {
+    color: #e9d7d7;
+}
+.color3 {
+    color: #f1edec;
+}
+.color4 {
+    color: #cecdd2;
+}
+.color5 {
+    color: #1a3259;
+}
+.color6 {
+    color: #010101;
+}
+
 footer .form-control {
     background-color: transparent;
     border: 0;
