@@ -4792,7 +4792,7 @@ nav .cart-wrapper.open {
 }
 
 .step-wrapper .stepper > ul > li:before {
-    background-color: #ffc933;
+    background-color: #e9d7d7;
     position: absolute;
     display: block;
     content: "";
@@ -4811,7 +4811,7 @@ nav .cart-wrapper.open {
     display: inline-block;
     position: relative;
     z-index: 9;
-    color: #ffc933;
+    color: #e9d7d7;
     font-family: 'LinearIcons';
 }
 
@@ -4852,11 +4852,11 @@ nav .cart-wrapper.open {
 }
 
 .step-wrapper .stepper > ul > li.active:before {
-    background-color: black;
+    background-color: #c69898;
 }
 
 .step-wrapper .stepper > ul > li.active span {
-    color: black;
+    color: #c69898;
 }
 
 .step-wrapper .stepper > ul > li.active span:before {
@@ -4913,7 +4913,7 @@ nav .cart-wrapper.open {
 .contact #map {
     width: 100%;
     height: 400px;
-    background-color: grey;
+    background-color: #f1edec;
 }
 
 .contact .contact-block {
