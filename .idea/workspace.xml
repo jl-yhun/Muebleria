@@ -20,6 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45733bde-30c7-41ed-95e8-be9ecafa0c5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/products-list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../koren" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -72,7 +81,8 @@
       <workItem from="1657726386723" duration="853000" />
       <workItem from="1658156300387" duration="9721000" />
       <workItem from="1658330078316" duration="826000" />
-      <workItem from="1658352374776" duration="7395000" />
+      <workItem from="1658352374776" duration="8128000" />
+      <workItem from="1658416675483" duration="1293000" />
     </task>
     <servers />
   </component>
