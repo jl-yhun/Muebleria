@@ -1150,7 +1150,7 @@ nav .navigation-main .navbar-dropdown .navbar-box ul > li:last-child > a {
     }
     nav .navigation-main .floating-menu .navbar-dropdown {
         display: none;
-        background-color: #1a1a1a;
+        background-color: #f1edec;
         padding: 0 10px;
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;
@@ -1450,7 +1450,7 @@ nav .categories figure figcaption {
         padding: 1px;
     }
     nav .categories figure {
-        background-color: #111;
+        background-color: #c69898 !important;
         padding: 40px 5px;
     }
 }
