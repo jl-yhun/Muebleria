@@ -5347,6 +5347,7 @@ nav .cart-wrapper.open {
 
 .history .history-title .title {
     margin-bottom: 0;
+    color: white;
 }
 
 .history .history-image {
@@ -5397,7 +5398,7 @@ nav .cart-wrapper.open {
         z-index: -1;
         content: "";
         display: block;
-        background-color: #c69898;
+        background-color: #1a3259;
         left: 50%;
         top: 50%;
         position: absolute;
@@ -5423,7 +5424,7 @@ nav .cart-wrapper.open {
         border: 0;
     }
     .history .history-title {
-        background-color: #c69898;
+        background-color: #1a3259;
         color: white;
         display: inline-block;
         padding: 15px;
