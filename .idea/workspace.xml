@@ -21,8 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="45733bde-30c7-41ed-95e8-be9ecafa0c5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/LOGO71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/LOGO72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comoComprar.html" beforeDir="false" afterPath="$PROJECT_DIR$/comoComprar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,12 +49,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DRACMA" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hp\Documents\GitHub\Muebleria\assets\images" />
+      <recent name="C:\Users\hp\Documents\GitHub\Muebleria" />
       <recent name="C:\Users\hp\Documents\GitHub\Muebleria\assets" />
       <recent name="C:\Users\hp\Documents\GitHub\Muebleria\assets\js" />
     </key>
@@ -84,7 +87,9 @@
       <workItem from="1659367614180" duration="1811000" />
       <workItem from="1659454337342" duration="594000" />
       <workItem from="1659633870417" duration="2993000" />
-      <workItem from="1660234024579" duration="6161000" />
+      <workItem from="1660234024579" duration="6421000" />
+      <workItem from="1660244294272" duration="6040000" />
+      <workItem from="1660575928682" duration="5783000" />
     </task>
     <servers />
   </component>
@@ -104,14 +109,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1658158897055">
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1660584983378">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1658158897055" />
-    <state x="425" y="98" key="FileChooserDialogImpl" timestamp="1660238664558">
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1660584983378" />
+    <state x="425" y="98" key="FileChooserDialogImpl" timestamp="1660580931038">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="425" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1660238664558" />
+    <state x="425" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1660580931038" />
     <state x="348" y="28" width="585" height="624" key="find.popup" timestamp="1658952295694">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
