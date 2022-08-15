@@ -21,11 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="45733bde-30c7-41ed-95e8-be9ecafa0c5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/LOGO71.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/LOGO72.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/comoComprar.html" beforeDir="false" afterPath="$PROJECT_DIR$/comoComprar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preguntasfrecuentes.html" beforeDir="false" afterPath="$PROJECT_DIR$/preguntasfrecuentes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producto.html" beforeDir="false" afterPath="$PROJECT_DIR$/producto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/products-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonios.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonios.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
       <workItem from="1659633870417" duration="2993000" />
       <workItem from="1660234024579" duration="6421000" />
       <workItem from="1660244294272" duration="6040000" />
-      <workItem from="1660575928682" duration="5783000" />
+      <workItem from="1660575928682" duration="10767000" />
     </task>
     <servers />
   </component>
